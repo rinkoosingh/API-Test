@@ -1,0 +1,22 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "api test to create and check aws ec2 instance",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinkoosingh/API-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinkoosingh/API-Test/issues"
+  },
+  "homepage": "https://github.com/rinkoosingh/API-Test#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.322.0"
+  }
+}
